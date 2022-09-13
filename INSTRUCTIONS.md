@@ -12,7 +12,7 @@ Você será avaliado por conseguir realizar as atividades propostas e também (t
 - [ ] A branch de desenvolvimento da funcionalidade deverá ser criada a partir da ``branch`` **dev**, e deverá seguir uma convenção simples de `feature/**`, onde '**' indica o nome da funcionalidade que está sendo desenvolvida.
 - [ ] Deverá ser utilizado o **gitmoji** para realização dos commits.
 - [ ] As mensagens de commit devem seguir o **mesmo tempo verbal aplicado no repositório**
-- [ ] Quando a branch tiver sua implementação concluída, deverá ter um `merge request` aberto para a branch **dev** do repositório do professor, solicitando o `code review` do docente, que, naturalmente, deve revisar e aprovar a entrega.
+- [ ] Quando a branch tiver sua implementação concluída, deverá ter um `merge request` aberto para a branch **dev** do repositório do grupo e, depois que todos realizarem suas entregas, deve ser aberto um MR para o repositório do professor, solicitando o `code review` do docente, que, naturalmente, deve revisar e aprovar a entrega.
 - [ ] A escrita de mensagens de commits deve seguir o padrão do repositório, obrigatoriamente.
 - [ ] Os commits não devem agrupar muito código.
 - [ ] Em um commit a parte, altere o Readme do projeto e adicione os membros da equipe como contribuidores.
