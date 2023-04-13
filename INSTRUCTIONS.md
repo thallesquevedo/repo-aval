@@ -4,6 +4,12 @@ Esta atividade deverá ser feita em grupos de <b>três a cinco</b> pessoas.
 
 Você será avaliado por conseguir realizar as atividades propostas e também (tanto quanto) por utilizar boas práticas, sejam nas mensagens de commits, criação e nomeação de branchs e por aí vai.
 
+## 🚨Pré-requisitos🚨
+
+- [Material sobre padronização de commits](https://youtu.be/49a9M17ZikI)
+- [Material sobre contribuição com repositórios remotos](https://youtu.be/thtAHpgYVg8)
+- [Dicas valiosas para git](https://youtu.be/32m_dhr3P70)
+
 ## 🎥Cenário e Atividade🎥
 
 - [ ] O grupo deverá desenvolver as funções não implementadas que constam no código, cada membro resolvendo pelo menos uma.
@@ -21,3 +27,8 @@ Você será avaliado por conseguir realizar as atividades propostas e também (t
 ## 🚌Entrega🚌
 - A entrega da atividade se dá diante da abertura do merge request e aprovação.
 - Apenas um membro da equipe deverá abrir o merge request.
+- Deve acontecer até o final da próxima aula.
+
+## 🚀Playlist de apoio🚀
+
+- [Playlist do professor sobre git](https://www.youtube.com/watch?v=GIEquFr3jcg&list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ)
